@@ -1,0 +1,42 @@
+.ota{
+    width: 100%;
+    background-color: aqua;
+    padding:10px;
+    top: 0;
+    border-bottom: 5px double greenyellow;
+}
+b{
+font-size: 30px;
+font-family: "Courier New", Courier, monospace;
+margin-bottom: 10px;
+}
+h1{
+    display: inline-block;
+    padding: 0 40px;
+    font-size: 20px;
+    text-decoration: underline wavy;
+}
+.ota button{
+    font-size: 20px;
+    padding: 10px 20px;
+    background-color: yellow;
+    border-radius: 40%;
+color: brown;
+border-color: brown;
+}
+.ona{
+    width: 90%;
+    height: 700px;
+    background-color: blue;
+    margin: auto;
+    text-align: center;
+}
+.q{
+    width: 26%;
+    height: 90%;
+    background-color: darkolivegreen;
+    margin: 30px;
+    display: inline-block;
+    border-radius: 0 0 30% 30%;
+    border: double black ;
+}
